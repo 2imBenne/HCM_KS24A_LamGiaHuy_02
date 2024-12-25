@@ -53,7 +53,7 @@ int main(){
 		
 		case 3: //Dem so luong chan le
 		int even,odd; 
-		for(int i=0;i<n;i++){
+		for(int i=0;i<size;i++){
 			if(arr[i] % 2 == 0){
 				even++ ; 
 			} 
