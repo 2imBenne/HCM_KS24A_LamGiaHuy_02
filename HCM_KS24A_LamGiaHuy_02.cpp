@@ -87,7 +87,7 @@ int main(){
 		
 		//case 7: //sap xep thu tu giam dan (Insert sort)
 		
-		case 8://Tim kiem (Binary search) 
+		//case 8://Tim kiem (Binary search) 
 		int searchValue ;
 		
 	}
